@@ -16,42 +16,40 @@ Here are some ideas to get you started:
 -->
 ## 🚀 About Me  
 
-I'm a **Cloud & DevOps Engineer (Immediate Joiner)** from 🇮🇳 **India**, passionate about  
-cloud infrastructure, automation, and CI/CD pipelines.  
-I enjoy learning and working with modern DevOps tools to build **scalable and reliable systems**.
+I'm a **B.Tech IT student at Ganpat University** 🇮🇳 India, on a journey into the world of  
+**Cloud Computing, DevOps, and Full-Stack Development**.
+
+I’m passionate about building real-world applications, automating workflows, and learning how modern systems scale in production.  
+My journey is focused on **learning by doing**, experimenting with tools, and continuously improving my technical skills.
 
 ---
 
 ### 🔭 Currently Exploring  
-- AWS  
-- Kubernetes (EKS)  
-- Terraform  
-- Docker  
-- Jenkins  
-- GitHub Actions  
-- GitLab CI/CD  
-- ArgoCD  
-- Ansible  
-- Grafana  
+- AWS cloud services  
+- Docker & containerization  
+- Kubernetes (basics to EKS)  
+- CI/CD pipelines (GitHub Actions, GitLab CI/CD)  
+- Terraform (Infrastructure as Code)  
+- Jenkins & DevOps toolchains  
 
 ### 🌱 Always Learning  
-- Cloud-native solutions  
-- DevOps workflows  
 - Automation best practices  
+- DevOps workflows  
+- Cloud-native concepts  
+- New tools and technologies  
 
 ### 👯 Looking to Collaborate On  
-- Open-source projects  
-- DevOps & cloud initiatives  
+- Full-stack development projects  
+- Real-time / real-world projects  
+- Open-source initiatives  
 
 ### 💬 Ask Me About  
 - Python  
-- Cloud setup  
-- CI/CD pipelines  
-- DevOps practices  
-- Infrastructure automation  
+- Your project ideas (I’d love to discuss & help)  
+- Web development basics  
 
 ### ⚡ Fun Fact  
-I love sharing knowledge with peers 🚀  
+I enjoy sharing knowledge, brainstorming ideas, and learning with peers 🚀  
 
 ---
 
@@ -59,25 +57,26 @@ I love sharing knowledge with peers 🚀
 
 ### 💻 Languages & Frameworks  
 - Python  
+- Django  
 - JavaScript  
+- Node.js  
+- React  
 - HTML5  
 - CSS3  
 
 ### ☁️ Cloud & DevOps  
 - AWS  
-- GCP  
 - Docker  
 - Kubernetes  
 - Jenkins  
-- GitLab  
+- GitHub Actions  
+- GitLab CI/CD  
 - Terraform  
 - Ansible  
 
 ### 🗄️ Databases & Monitoring  
-- PostgreSQL  
 - MongoDB  
-- Prometheus  
-- Grafana  
+- SQL  
 
 ---
 
