@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 ## 🚀 About Me  
 
 I'm a **B.Tech IT student at Ganpat University** 🇮🇳 India, on a journey into the world of  
-**Cloud Computing, DevOps, and Full-Stack Development**.
+**DevOps, and Full-Stack Development**.
 
 I’m passionate about building real-world applications, automating workflows, and learning how modern systems scale in production.  
 My journey is focused on **learning by doing**, experimenting with tools, and continuously improving my technical skills.
 
 ---
 
-I'm a **B.Tech IT student** from 🇮🇳 **India**, exploring the fields of **Cloud Computing**, **DevOps**, and **Full-Stack Development**.  
-I’m passionate about **automation**, **CI/CD pipelines**, and building **real-world scalable applications** using modern tools and technologies.
+I'm a **B.Tech IT student** from 🇮🇳 **India**, exploring the fields of **DevOps**, and **Full-Stack Development**.  
+I’m passionate about **automation** and building **real-world scalable applications** using modern tools and technologies.
 
 - 🔭 Currently exploring **AWS cloud services**, **Docker**, **Kubernetes (basics to EKS)**, **CI/CD pipelines** (GitHub Actions, GitLab CI/CD), **Terraform**, and **Jenkins**
 - 🌱 Always learning about **automation best practices**, **DevOps workflows**, **cloud-native concepts**, and new technologies
