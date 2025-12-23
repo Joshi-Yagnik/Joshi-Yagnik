@@ -60,6 +60,6 @@ I’m passionate about **automation**, **CI/CD pipelines**, and building **real-
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/bhagya-patel-](https://www.linkedin.com/in/joshi-yagnik-41b36b31b?)
-[![Email](https://img.shields.io/badge/Email-imbhagya2005@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshiyagnik977@gmail.com)
+[![Email](https://img.shields.io/badge/Email-joshiyagnik977@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshiyagnik977@gmail.com)
 
 </div>
