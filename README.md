@@ -58,3 +58,5 @@ My journey is focused on **learning by doing**, experimenting with tools, and co
 [![Email](https://img.shields.io/badge/Email-joshiyagnik977@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshiyagnik977@gmail.com)
 
 </div>
+
+![Animation](https://raw.githubusercontent.com/IRON-M4N/IRON-M4N/output/github-contribution-grid-snake-dark.svg)
